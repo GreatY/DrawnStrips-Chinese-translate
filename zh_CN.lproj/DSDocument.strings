@@ -1,0 +1,45 @@
+
+/* Class = "NSButtonCell"; title = "Done"; ObjectID = "1GO-Az-Pl8"; */
+"1GO-Az-Pl8.title" = "OK";
+
+/* Class = "NSTextFieldCell"; title = "-100%"; ObjectID = "EPc-JY-Y6b"; */
+"EPc-JY-Y6b.title" = "-100%";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "HQg-Wn-W2L"; */
+"HQg-Wn-W2L.title" = "标签";
+
+/* Class = "NSTextFieldCell"; title = "Sharpness:"; ObjectID = "NSI-Zi-V6I"; */
+"NSI-Zi-V6I.title" = "锐度 :";
+
+/* Class = "NSButtonCell"; title = "Button"; ObjectID = "PF0-yl-uOx"; */
+"PF0-yl-uOx.title" = "按钮";
+
+/* Class = "NSTextFieldCell"; title = "Brightness:"; ObjectID = "Pa3-cR-dkg"; */
+"Pa3-cR-dkg.title" = "亮度 :";
+
+/* Class = "NSTextFieldCell"; title = "Contrast:"; ObjectID = "Xl0-Bz-dGT"; */
+"Xl0-Bz-dGT.title" = "对比度 :";
+
+/* Class = "NSButtonCell"; title = "Reset"; ObjectID = "aXu-UI-d35"; */
+"aXu-UI-d35.title" = "重置";
+
+/* Class = "NSTextFieldCell"; title = "Gamma:"; ObjectID = "bM8-Ja-jfl"; */
+"bM8-Ja-jfl.title" = "Gamma :";
+
+/* Class = "NSButtonCell"; title = "Button"; ObjectID = "gRv-VZ-PSG"; */
+"gRv-VZ-PSG.title" = "按钮";
+
+/* Class = "NSTextFieldCell"; title = "-100%"; ObjectID = "iha-Q0-Wbk"; */
+"iha-Q0-Wbk.title" = "-100%";
+
+/* Class = "NSTextFieldCell"; title = "-100%"; ObjectID = "kY6-ej-AdS"; */
+"kY6-ej-AdS.title" = "-100%";
+
+/* Class = "NSButtonCell"; title = "Button"; ObjectID = "oWJ-Vh-ZMC"; */
+"oWJ-Vh-ZMC.title" = "按钮";
+
+/* Class = "NSTextFieldCell"; title = "-100%"; ObjectID = "r9M-gO-nZc"; */
+"r9M-gO-nZc.title" = "-100%";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "xOd-HO-29H"; */
+"xOd-HO-29H.title" = "窗口";
